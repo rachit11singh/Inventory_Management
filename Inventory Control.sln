@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Inventory Control", "Inventory Control\Inventory Control.vbproj", "{B68A0E22-6967-49EE-B5E6-A84EEE029C8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B68A0E22-6967-49EE-B5E6-A84EEE029C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68A0E22-6967-49EE-B5E6-A84EEE029C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68A0E22-6967-49EE-B5E6-A84EEE029C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68A0E22-6967-49EE-B5E6-A84EEE029C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

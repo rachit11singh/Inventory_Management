@@ -1,0 +1,16 @@
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\bin\Debug\Database\Inventory.mdf
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\bin\Debug\Database\Inventory_log.ldf
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\bin\Debug\Inventory Control.exe.config
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\bin\Debug\Inventory Control.exe
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\bin\Debug\Inventory Control.pdb
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\bin\Debug\Inventory Control.xml
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\obj\Debug\Inventory_Control.Form1.resources
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\obj\Debug\Inventory_Control.Resources.resources
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\obj\Debug\Inventory Control.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\obj\Debug\Inventory Control.exe
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\obj\Debug\Inventory Control.xml
+C:\Documents and Settings\Pursell\Desktop\Visual basic 2008\Inventory Control\Inventory Control\obj\Debug\Inventory Control.pdb
+C:\Users\rachit singh\Desktop\nic - intern work\electronics shop management\inventory 2171311\Inventory Control\Inventory Control\bin\Debug\Inventory Control.exe.config
+C:\Users\rachit singh\Desktop\nic - intern work\electronics shop management\inventory 2171311\Inventory Control\Inventory Control\obj\Debug\Inventory Control.xml
+C:\Users\rachit singh\Desktop\nic - intern work\electronics shop management\inventory 2171311\Inventory Control\Inventory Control\obj\Debug\Inventory Control.pdb
